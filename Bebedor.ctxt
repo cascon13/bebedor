@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=limite\ nombre
+comment0.target=Bebedor(double,\ java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Bebedor\r\n
+comment1.params=
+comment1.target=double\ getAlcoholEnSangre()
+comment2.params=copa
+comment2.target=void\ beberCubata(Cubata)
+comment3.params=pregunta
+comment3.target=void\ getRespuesta(java.lang.String)
+numComments=4
